@@ -1,4 +1,9 @@
 
+# Hi there, I'm Rohithchandran M 👋
+
+### 🚀 Second-Year B.Tech Artificial Intelligence & Machine Learning Student | Aspiring AI Engineer | Python Developer 
+
+---
 
 
 # 👨‍💻 Professional Summary
