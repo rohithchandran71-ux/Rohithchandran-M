@@ -141,4 +141,3 @@ To secure challenging internship and learning opportunities where I can apply my
 Thank you for taking the time to visit my GitHub profile. I’m always excited to learn, collaborate, and contribute to meaningful projects. Feel free to explore my repositories, share your feedback, or connect with me to discuss technology, Artificial Intelligence, Machine Learning, or exciting collaboration opportunities.
 
 ### **Let's innovate, build, and shape the future with Artificial Intelligence! 🚀🤖**
-```
