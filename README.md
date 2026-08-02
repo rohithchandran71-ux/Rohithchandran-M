@@ -1,143 +1,193 @@
+<div align="center">
 
-# Hi there, I'm Rohithchandran M 👋
+# Hi 👋, I'm Rohithchandran M
 
-### 🚀 Second-Year B.Tech Artificial Intelligence & Machine Learning Student | Aspiring AI Engineer | Python Developer | Web Designer | Software computing.
+### 🚀 AI & Machine Learning Student | Python Developer | Future AI Engineer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Web+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
+<img src="https://komarev.com/ghpvc/?username=rohithchandran71-ux&label=Profile+Views&color=0e75b6&style=flat"/>
 
-# 👨‍💻 Professional Summary
-
-I am a passionate and highly motivated **second-year B.Tech Artificial Intelligence & Machine Learning student** with an unwavering enthusiasm for **Artificial Intelligence, Machine Learning, and Software Development**. Driven by curiosity and innovation, I enjoy transforming ideas into intelligent, practical, and user-centric solutions that solve real-world challenges. Equipped with a strong foundation in **Python, Java, C, HTML, CSS, MySQL, Git, and GitHub**, I continuously sharpen my technical expertise through hands-on projects and continuous learning. I thrive in collaborative environments, embrace new challenges with confidence, and believe that every project is an opportunity to innovate, learn, and grow. My ultimate goal is to leverage cutting-edge technologies, contribute to impactful solutions, and evolve into a highly skilled Artificial Intelligence & Machine Learning Engineer capable of making a meaningful difference in the technology industry.
-
----
-
-# 🎯 Career Objective
-
-To secure challenging internship and learning opportunities where I can apply my knowledge of Artificial Intelligence, Machine Learning, and Software Development to solve real-world problems. I aspire to work alongside experienced professionals, contribute to innovative projects, continuously expand my technical expertise, and build a successful career as an AI & Machine Learning Engineer who creates technology that positively impacts society.
+</div>
 
 ---
 
-# 🎓 Education
+# 💫 About Me
 
-**Bachelor of Technology (B.Tech)**  
-**Artificial Intelligence & Machine Learning**  
-**Second-Year Undergraduate**
+🎓 Second-Year B.Tech Artificial Intelligence & Machine Learning Student
+
+🤖 Passionate about Artificial Intelligence, Machine Learning & Automation
+
+💻 Building intelligent software solutions using Python
+
+🌱 Currently learning Deep Learning, Generative AI & Cloud Computing
+
+🚀 Interested in AI Applications, NLP, Computer Vision & Software Engineering
+
+🎯 Goal: Become a professional AI & Machine Learning Engineer
 
 ---
 
-# 💻 Technical Skills
+# 🛠 Tech Stack
 
-## Programming Languages
-- Python
-- Java
-- c
-- Sql
+### Programming Languages
 
-## Artificial Intelligence & Machine Learning
-- Artificial Intelligence Fundamentals
-- Machine Learning Fundamentals
-- Natural Language Processing (NLP)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+### AI & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,docker"/>
+</p>
+
+---
+
+# 🚀 Skills
+
+### Artificial Intelligence
+
+- Machine Learning
+- Artificial Intelligence
+- Natural Language Processing
 - Prompt Engineering
 
-## Web Development
+### Software Development
+
+- Python
+- Java
+- C
+- SQL
 - HTML5
 - CSS3
-- Responsive Web Design
 
-## Development Tools
-- Visual Studio Code
-- Jupyter Notebook
-- Jotform AI Agent
+### Soft Skills
 
-## Operating Systems
-- Windows
-- Linux (Basics)
+✔ Problem Solving
 
----
+✔ Leadership
 
-# 🤝 Soft Skills
+✔ Critical Thinking
 
-- Problem Solving
-- Analytical Thinking
-- Critical Thinking
-- Leadership
-- Team Collaboration
-- Effective Communication
-- Adaptability
-- Time Management
-- Creativity
-- Quick Learning
-- Attention to Detail
-- Continuous Learning
-- Decision Making
+✔ Team Collaboration
+
+✔ Adaptability
+
+✔ Communication
+
+✔ Continuous Learning
 
 ---
 
-# 📚 Currently Learning
+# 📊 GitHub Analytics
 
-- Deep Learning
-- Generative AI
-- Cloud Computing Fundamentals
-- REST APIs
-- Advanced Python
-- Git & GitHub Best Practices
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohithchandran71-ux&show_icons=true&theme=tokyonight"/>
 
-# 🏆 Certifications
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithchandran71-ux&layout=compact&theme=tokyonight"/>
 
-- Data analytics Certifications in IBM
-- Python Programming in Coursera
-- AWS Certified Machine Learning – Infosys
+</p>
 
 ---
 
-# 🌱 Areas of Interest
+# 🔥 GitHub Streak
 
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-- Application Development
-- Web Development
-- Automation
-- Data Science
-- Problem Solving
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rohithchandran71-ux&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🎯 Career Goals
+# 📈 Contribution Graph
 
-- Build intelligent AI-powered applications
-- Contribute to Open Source projects
-- Develop scalable software solutions
-- Master Machine Learning & Deep Learning
-- Gain valuable industry experience
-- Continuously learn emerging technologies
-- Become a successful AI & Machine Learning Engineer
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithchandran71-ux&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-📧 **Email:** rohithchandran71@gmail.com
+<p align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/rohitchandran318-m/
+<img src="https://github-profile-trophy.vercel.app/?username=rohithchandran71-ux&theme=tokyonight&row=1&column=6"/>
 
-💻 **GitHub:** https://github.com/rohithchandran71-ux
-
-🌍 **Portfolio:** 
+</p>
 
 ---
 
-# 💬 Favorite Quote
+# 🌟 Featured Projects
 
-> *"Innovation begins with curiosity, excellence is achieved through continuous learning, and success is earned by turning ideas into meaningful impact."*
+🚀 AI Virtual Assistant
+
+🤖 Student Chatbot
+
+🌐 Personal Portfolio Website
+
+📊 Machine Learning Projects
+
+🧠 NLP Applications
 
 ---
 
-# ⭐ Thank You for Visiting!
+# 📚 Certifications
 
-Thank you for taking the time to visit my GitHub profile. I’m always excited to learn, collaborate, and contribute to meaningful projects. Feel free to explore my repositories, share your feedback, or connect with me to discuss technology, Artificial Intelligence, Machine Learning, or exciting collaboration opportunities.
+🏅 IBM – Data Analytics
 
-### **Let's innovate, build, and shape the future with Artificial Intelligence! 🚀🤖**
+🏅 Coursera – Python Programming
+
+🏅 Infosys – AWS Machine Learning
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="mailto:rohithchandran71@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohitchandran318-m/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rohithchandran71-ux">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Innovation begins with curiosity, excellence is achieved through continuous learning, and success is earned by turning ideas into meaningful impact."**
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### Let's Build Intelligent Solutions Together 🤖
+
+</div>
