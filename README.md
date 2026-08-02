@@ -45,7 +45,7 @@
 ### AI & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,emergent,Hostinger,Kimislides"/>
+<img src="https://skillicons.dev/icons?i=git,github,netlify,vercel"/>
 </p>
 
 ## 📚 Currently Learning
