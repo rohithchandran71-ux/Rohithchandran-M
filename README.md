@@ -55,7 +55,7 @@
 </p>
 
 - 💻 Visual Studio Code
-- 🐍 Python Standard Library (including `antigravity`)
+- 🐍 Python Standard Library 
 - 🧠 Machine Learning
 
 ---
