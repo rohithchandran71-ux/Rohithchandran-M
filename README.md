@@ -48,11 +48,15 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-### Currently Learning
+## 📚 Currently Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,docker"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,python"/>
 </p>
+
+- 💻 Visual Studio Code
+- 🐍 Python Standard Library (including `antigravity`)
+- 🧠 Machine Learning
 
 ---
 
