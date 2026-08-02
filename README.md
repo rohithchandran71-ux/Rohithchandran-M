@@ -36,23 +36,26 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,claude"/>
+  <img src="https://skillicons.dev/icons?i=html,css"/>
+  <img src="https://img.shields.io/badge/Claude_AI-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
 </p>
 
-### AI & Development Tools
+### 🤖 AI & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,netlify,vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel"/>
 </p>
 
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,antigravity,jupiternotebook"/>
+  <img src="https://skillicons.dev/icons?i=vscode,python"/>
 </p>
+
+- 🐍 Exploring Python's Standard Library (including `antigravity`)
 
 ---
 
