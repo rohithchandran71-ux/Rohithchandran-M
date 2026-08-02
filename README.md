@@ -28,12 +28,12 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Skill
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css"/>
 </p>
 
 ### Web Development
