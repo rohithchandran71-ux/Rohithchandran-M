@@ -50,8 +50,8 @@
 
 ## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,antigravity"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,antigravity,jupiternotebook"/>
 </p>
 
 ---
