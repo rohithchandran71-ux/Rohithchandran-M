@@ -117,16 +117,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohithchandran71-ux&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 # 🌟 Featured Projects
 
 🚀 AI Virtual Assistant
