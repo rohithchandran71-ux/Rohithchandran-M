@@ -51,12 +51,8 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,Antigravity"/>
+  <img src="https://skillicons.dev/icons?i=vscode,antigravity"/>
 </p>
-
-- 💻 Visual Studio Code
-- 🐍 Python Standard Library 
-- 🧠 Machine Learning
 
 ---
 
