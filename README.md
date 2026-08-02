@@ -33,25 +33,25 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,claude"/>
 </p>
 
 ### AI & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,emergent,Hostinger,Kimislides"/>
 </p>
 
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python"/>
+  <img src="https://skillicons.dev/icons?i=vscode,Antigravity"/>
 </p>
 
 - 💻 Visual Studio Code
