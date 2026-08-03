@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Web+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
-<img src="https://komarev.com/ghpvc/?username=rohithchandran71-ux&label=Profile+Views&color=0e75b6&style=flat"/>
-
 </div>
 
 ---
